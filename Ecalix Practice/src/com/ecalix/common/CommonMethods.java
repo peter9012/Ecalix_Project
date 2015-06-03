@@ -40,6 +40,7 @@ public class CommonMethods {
 		System.out.println("Password"+Password+"entered");
 		driver.findElement(By.xpath("//*[@id='tdb5']/span[2]")).click();
 		System.out.println("Submit button is clicked");
+		System.out.println("Test1");
 	}
 	
 
