@@ -8,7 +8,7 @@
 	<classpathentry kind="lib" path="C:/Selenium/libs/reportng-1.1.4.jar"/>
 	<classpathentry kind="lib" path="C:/Selenium/libs/selenium-java-2.45.0.jar"/>
 	<classpathentry kind="lib" path="C:/Selenium/libs/selenium-java-2.45.0-srcs.jar"/>
-	<classpathentry kind="lib" path="C:/Selenium/libs/selenium-server-standalone-2.45.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Selenium/libs/selenium-server-standalone-2.45.0.jar"/>
 	<classpathentry kind="lib" path="C:/Selenium/libs/testng-6.8.5.jar"/>
 	<classpathentry kind="lib" path="C:/Selenium/libs/velocity-dep-1.4.jar"/>
 	<classpathentry kind="lib" path="C:/Selenium/libs/xmlbeans-2.6.0.jar"/>
