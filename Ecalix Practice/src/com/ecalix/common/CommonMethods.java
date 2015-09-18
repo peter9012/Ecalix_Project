@@ -32,6 +32,9 @@ public class CommonMethods {
 	public void clicklogoff(){
 		driver.findElement(By.xpath("//*[@id='tdb4']/span")).click();
 		System.out.println("log off button is clicked");
+		System.out.println("log off button is clicked");
+		System.out.println("log off button is clicked");
+		System.out.println("log off button is clicked");
 	}
 	public void Login(String UserName, String Password){
 		driver.findElement(By.xpath("//*[@id='bodyContent']/div[2]/div/form/table/tbody/tr[1]/td[2]/input")).sendKeys(UserName);
