@@ -16,7 +16,6 @@ import org.testng.annotations.Test;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
 import com.ecalix.common.CommonMethods;
-import com.opera.core.systems.OperaSettings.Capability;
 
 
 public class LoginTest extends CommonMethods {
